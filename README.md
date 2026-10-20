@@ -8,7 +8,7 @@ Through this project, I learned more about cloud deployment, Docker containers, 
 
 My final reflection covers what I learned, my strengths as a developer, and how I would plan for the application’s future growth.
 
-
+https://github.com/JayRosa27/CS470_FullStackII/blob/f83f2289d4b19311791c83b19e1872cd3de368e1/CS%20470%20Full%20Stack%20Reflection.pdf
 
 ## Presentation
 https://youtu.be/dQjGdyj1SNs  
